@@ -436,9 +436,8 @@ Bkw:
 
 == Fenómenos
 
-Esta parte de aquí explica varias neuronas monosemántica y los resultados de
-word2vec, las neuronas monosemánticas, y las caracteristicas en unos cuantos
-bullet-points y poco texto
+Esta parte de aquí explica varias neuronas monosemánticas, mencionando como
+ejemplo las neuronas de inception y clip.
 
 #speaker-note[
   En esta nota al precentador, se explica detalladamente, con mucho texto
@@ -446,7 +445,13 @@ bullet-points y poco texto
 
 == Hipótesis de reprecentaciónes Lineales
 
-- caracteristicas como direcciones en el espacio de activaciónes
+Esta parte menciona los resultados de word2vec para introducir la hipótesis de
+reprecentaciones lineales, usa terminos como componente y dirección (en el
+sentido de dirección de vector), también mensiona los latent-space walk,
+mostrando imágenes (gif?), mostrando visualmente como se puede usar para
+resultados tipo word2vec al modificar por ejemplo la edad de una persona
+
+Recordemos que: poco texto aquí, mucho texto en las speaker-notes
 
 
 #speaker-note[
